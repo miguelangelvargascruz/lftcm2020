@@ -94,6 +94,7 @@ to add your name to the list below (in alphabetical order).
 * Eloi Torrents (Universitat Politècnica de Catalunya, CAT)
 * Amos Turchet (Scuola Normale Superiore, IT)
 * Daan van Gent (Universiteit Leiden, NL)
+* Miguel Angel Vargas Cruz (Grupo Alianza Empresarial, MX)
 * Philip A. Vetter (Institute of Deep-sea Science and Engineering, CAS, Sanya Hainan, CN)
 * David Wärn (University of Cambridge, UK)
 * Eric Wieser (University of Cambridge, UK)
